@@ -13,7 +13,7 @@ Este projeto consiste em uma API para chamada das funcionalides.
 ### Backend/API
 
 - **Linguagem de programação:** C#
-- **Framework:** .NET
+- **Framework:** ASP.NET Core
 - **Banco de dados:** PostgreSQL
 - **Outras bibliotecas/utilitários:** EntityFramework
 
